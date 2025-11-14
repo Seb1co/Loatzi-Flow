@@ -1,2 +1,2 @@
 # Loatzi-Flow
-Aplicatie care ajuta la gasirea animalelor abandonate🐱 🐈‍⬛
+Aplicatie pentru raportarea defectelor unui oras.
